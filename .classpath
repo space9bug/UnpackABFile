@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="D:/eclipse/eclipse-workspace/UnpackABFile/lib/abe.jar" />
+	<classpathentry kind="lib"
+		path="D:/eclipse/eclipse-workspace/UnpackABFile/lib/commons-compress-1.18.jar" />
+	<classpathentry kind="lib"
+		path="D:/eclipse/eclipse-workspace/UnpackABFile/lib/commons-io-2.6.jar" />
+	<classpathentry kind="lib"
+		path="D:/eclipse/eclipse-workspace/UnpackABFile/lib/commons-lang3-3.8.1.jar" />
+	<classpathentry kind="output" path="bin" />
+</classpath>
